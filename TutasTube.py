@@ -58,7 +58,7 @@ if a==i+1:
 
 else:
     stream=yt.streams.get_by_itag(n)
-    print(n)
+    
 
 
 
